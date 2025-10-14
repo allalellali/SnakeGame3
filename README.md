@@ -11,4 +11,3 @@ A classic Snake game built for Android.
 - Android Studio
 - Java/Kotlin
 # SnakeGame3
-# SnakeGame3
